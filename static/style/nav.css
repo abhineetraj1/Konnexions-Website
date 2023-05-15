@@ -49,12 +49,12 @@ body{
 	color: white;
 }
 #intro-btn:hover{
-	box-shadow: 5px 5px 10px #3dff00;
+	box-shadow: 2px 2px 3px #3dff00;
 }
 
 /* Events section */
 #services{
-	height: 60vh;
+	height: 70vh;
 	width: 100%;
 	background: white;
 }
@@ -73,20 +73,22 @@ body{
 	margin-top: 2vh;
 	height: 20vh;
 	background: black;
-	color: #3dff00;
+	color: white;
 	float: left;
 	border-width: 0px;
 	text-align: center;
-	padding: 3px;
-	border-radius: 7px;
-	font-size: 21px;
+	padding: 1px;
+	border-radius: 5px;
+	font-size: 19px;
 }
 .crs:hover{
-	box-shadow: 5px 5px 10px #3dff00;
+	color: #3dff00;
+	box-shadow: 2px 2px 4px #3dff00;
 }
 .crs-t{
 	text-decoration: underline;
 	font-weight: bold;
+	margin-bottom: 0px;
 }
 /* Testimonial section */
 #tst{
@@ -115,7 +117,7 @@ body{
 	font-weight: bold;
 }
 
-/* Enquiry section */
+/* Participate section */
 #enq{
 	width: 100%;
 	font-size: 20px;
